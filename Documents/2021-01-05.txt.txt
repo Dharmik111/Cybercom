@@ -20,7 +20,7 @@
 
   then commit after we have to push the origin for changes using this command $ git push origin batman-bike
   
-  for Merge we have to work first this command $ git checkout main and then we have to fetch the origin using this commnd $ git fetch origin and merge the all branch using this command $ git merge --no-ff origin/batman-bike
+  Merge we have to work first this command $ git checkout main and then we have to fetch the origin using this commnd $ git fetch origin and merge the all branch using this command $ git merge --no-ff origin/batman-bike
 and all branch will be display on the screen 
 
   after check the git status and create the second branch and Merge the all branch and make repository here is today for work.
