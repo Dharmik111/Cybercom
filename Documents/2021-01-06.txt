@@ -1,4 +1,3 @@
-<<<<<<< HEAD
   Hello today was doing how to delete the branch from repository using this command  first we have $git checkout main,then we have go for delete command $git branch -d branch name.
 
   second how to create pull request in branch and connect to each other pull request like merge the pull request from branches in github actions some like merge pull requests option in the pull requests section.
@@ -8,16 +7,4 @@
  i have learn how to work --graph on the using git log as graph and you can combine the command using --oneline graph.
 
  learn master branch in github to branch commited to the another branch how will work and and learn main to create main 1 clone and put some data to both then main 1 to changes and commit and chckout for main then push the main 1 and merge then checkout for branch merge.
-=======
-i  work on the how to delete the branch and how to create pull requets on the branch.
- 
-i  learn how to connect or merge pull requets on the github and how they will work togrther.
 
-l learn how to delete pull requests in the github and how to revert the pull requets in the github.
-
-i learn how to git as graph work on github and how commit the command on the graph.
-
-i  learn how to merge the two branch using difference name but with the same data or folder and merge together and they check the result on the github.
- 
-i  learn how to crate master branch simple looks what is they work for github.
->>>>>>> origin/week4-9
