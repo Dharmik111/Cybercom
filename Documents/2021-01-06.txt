@@ -1,4 +1,4 @@
-i have work on the how to delete the branch and how to create pull requets on the the branch.
+i have work on the how to delete the branch and how to create pull requets on the branch.
  
 i have learn how to connect or merge pull requets on the github and how they will work togrther.
 
