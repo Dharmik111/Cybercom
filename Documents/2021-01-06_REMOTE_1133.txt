@@ -1,0 +1,11 @@
+i have work on the how to delete the branch and how to create pull requets on the branch.
+ 
+i have learn how to connect or merge pull requets on the github and how they will work togrther.
+
+l have learn how to delete pull requests in the github and how to revert the pull requets in the github.
+
+i have learn how to git as graph work on github and how commit the command on the graph.
+
+i have learn how to merge the two branch using difference name but with the same data or folder and merge together and they check the result on the github.
+ 
+i have learn how to crate master branch simple looks what is they work for github.
