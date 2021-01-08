@@ -1,0 +1,11 @@
+  Hello today i learn how to resolve conflict in github and how to pull request connect resolve with the branch and solve this error to connect main branch.
+
+  second learn how to solve merge error in command and reset merge using error solved.
+  
+  third learn how to commit all files in github and behind error solve which error is unmerged the commit on the branch and ahead error solve which is known as new commit haven't been merged in branch.
+
+  learn the javascript animation and upload it on the github.
+
+  how to solve rebase error and command which is new commit to apply the specific base learn on git. rebase means base change to commit branch. 
+
+  
