@@ -1,0 +1,3 @@
+ Hello today i learn execution context work behind the scene in javasript there is a variable object,hoisting,scoping chain and this keyword how work in java script code and practice it.
+
+ after a object properties and methods practice and loops and iteration lern with coding practice and upload it on git and javascript es version.
