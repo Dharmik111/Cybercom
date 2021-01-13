@@ -1,0 +1,3 @@
+ Hello today i learn javascript Dom and Manipulation also learn Project setup and access to first dom manipulation and also learn events.
+
+ also practice of Js challenge 1 solve tip calaculator and 2 solve object and methods through solve codes BMI and upload it on git.
