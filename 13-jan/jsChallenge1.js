@@ -4,7 +4,7 @@ var john3=268;
 
 var tip=[];
 var finalBill=[];
-
+ 
 function tipCalc(john1){
 	if(john1<50)
 	{   var tip1=(0.2)*john1;
