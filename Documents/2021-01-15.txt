@@ -1,0 +1,3 @@
+ Hello today i learn object create first Everything is object and Creating object functions and learn protoype chain and to that program and also learn primitive vs objects how excute and diffrence from each other and practice it and upload on git.
+
+ also practice problem complete for javascript and html tables creates and upload it on git.
