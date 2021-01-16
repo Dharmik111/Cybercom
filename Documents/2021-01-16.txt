@@ -1,0 +1,5 @@
+ Hello today i learn first function and invoked immeadiately functions also learn closures and how function call,bind and apply for ES5 and to that practice and upload it on git.
+ 
+ also ES6 learn variable declarations with let and const and also learn blocks and invoked functions ans string and to that practice and upload it on git.
+
+ html code for a simple form and display your form is submitted!! for practical and upload it on git.
