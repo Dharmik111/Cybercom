@@ -1,0 +1,1 @@
+ Hello today i learn php database connection and their video to connect database using localhost and practice it. select database query for php code etc.
