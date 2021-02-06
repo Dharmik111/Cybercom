@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>Add User</title>
+<script type="text/javascript" src="User.js"></script>
+</head>
+<body style="height: 50px; width:auto;">
+	<h1>Add User</h1>
+	<div style="display:inline-block;height: 75px;">
+	   <div style="display: inline-block;position: relative; background:lightblue;">
+		<h2>Hello,[<script>var a=JSON.parse(localStorage.getItem("admin"));document.write(a.name);</script>]</h2><br><br>
+		<a href="Dashboard.html" style="width: 15%;"><h2>DashBoard</h2></a><br>
+		<a href="User.html" style="width: 15%;"><h2>Users</h2></a><br>
+        <a href="LoginSession.html" style="width: 15%;"><h2>Loggin session</a></h2><br>
+        <a href="Login.html" style="width: 15%;"><h2>Logout</a></h2><br>
+      </div>
+      <h2>Add User</h2>
+      <div style="display:inline-block;height: 75px;">
+        <div style="display: inline-block;position: relative; background:lightblue;">
+        <input type="text" name="name" id="name" placeholder="Name.."required>
+        <input type="text" name="email" id="email" placeholder="Email Id.."required>
+       <input type="password" name="password" id ="password" placeholder="Password.."required>
+       <input type="date" name="date" id ="date" placeholder="Birthdate.."required>
+       <input type="submit" name="submit" value="Add User" onclick="return validation();">
+      </div>
+      <table border="1px" width="50px">
+        <tr>
+        <th>Name</th><th>Email</th><th>Password</th><th>Birthdate</th><th>Actions</th>
+        </tr>
+        <tr>
+        <td><script>var a=JSON.parse(localStorage.getItem("user"));document.write(a.name);</script></td>
+        <td><script>var a=JSON.parse(localStorage.getItem("user"));document.write(a.email);</script></td>
+        <td><script>var a=JSON.parse(localStorage.getItem("user"));document.write(a.password);</script></td>
+        <td><script>var a=JSON.parse(localStorage.getItem("user"));document.write(a.birthdate);</script></td>
+        <td><button onclick="return update();"><a href="">edit</a></button>&nbsp&nbsp<button onclick=" return deleteItem();"><a href="">delete</a></button></td>
+        </tr>
+      </table>
+    </div>
+</div>
+</body>
+</html>

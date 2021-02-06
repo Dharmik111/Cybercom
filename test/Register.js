@@ -17,6 +17,7 @@ var admin={
 	state:document.form.state.value,
 }
 window.localStorage.setItem('admin',JSON.stringify(admin));}
-if(localStorage.getItem(admin)!=null){
-	document.getElementById('submitbutton').disabled; 
+if(localStorage.getItem('admin')!=null){
+	alert("Admin Registered!!");
+	document.getElementById('registernow').style.display='none'; 
 }
