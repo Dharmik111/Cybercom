@@ -2,10 +2,11 @@
 <html>
 <head>
 	<title></title>
+	<script type="text/javascript" src="Register.js"></script>
 </head>
 <body>
       <center>
-       <form  method="POST">
+       <form  method="POST" name="form" onsubmit="validate();">
 		  <div class="container">
 		    <h1>Register</h1>
             
@@ -17,14 +18,14 @@
 
 		    <input type="password" placeholder="Confirm Password" name="password2" id="password2" required><br><br>
 
-		    <select name="Select City" id="city">
+		    <select name="city" id="city">
 		    	<option selected>Select City</option>
                <option value="Rajkot">Rajkot</option>
                <option value="Mumbai">Mumbai</option>
                <option value="Jaypur">Jaypur</option>
 			   <option value="Bhopal">Bhopal</option>
 			</select><br><br>
-			<select name="Select State" id="state">
+			<select name="state" id="state">
 				<option selected>Select State</option>
                <option value="Gujarat" >Gujarat</option>
                <option value="Maharashtra">Maharashtra</option>
@@ -32,8 +33,8 @@
 			   <option value="Madhay Pradesh">Madhay Pradesh</option>
 			</select><br><br>
 
-		    <input type="checkbox" name="btn"><label>Terms & Privacy</label><br><br>
-		    <button type="submit" class="registerbtn" formaction="Login.html">Register</button>
+		    <input type="checkbox" name="btn" required><label>Terms & Privacy</label><br><br>
+		    <button type="submit" class="registerbtn" name=" "formaction="Login.html">Register</button>
 		  </div>
 </form>
 </center>
