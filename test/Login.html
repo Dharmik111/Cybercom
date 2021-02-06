@@ -10,11 +10,11 @@
 <body>
     <center><h2>LOGIN</h2></center>
     <center>
-    <form target="_blank"  method="POST"  style="border:1px solid black ;height: 200px ;width:200px; ">
+    <form  name="form" method="POST"  style="border:1px solid black ;height: 200px ;width:200px;" onsubmit="return validate();" >
     <div>
-       <input type="text" name="name" id="name" placeholder="User Name.."><br><br>
-       <input type="password" name="password" id ="password" placeholder="Password.."><br><br>
-       <input type="submit" name="login" id="login" value="Login" onclick="validate()" formaction="DashBoard.html"><br><h2>Or</h2>
+       <input type="text" name="name" id="name" placeholder="User Name.."required><br><br>
+       <input type="password" name="password" id ="password" placeholder="Password.."required><br><br>
+       <input type="submit" name="login" id="login" value="Login" formaction="DashBoard.html"><br><h2>Or</h2>
        <input type="submit" name="Register Now" value="Register Now" formaction="Register.html">
     </div>
     </form>
