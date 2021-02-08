@@ -1,0 +1,1 @@
+ Hello today i learn the basic hit counter crate and excute the query and also left,right,join to join the two table for database and like query for names database and also distinct value for database query learn.
